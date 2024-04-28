@@ -3,7 +3,7 @@ For Contact @M_M_S3 ~ @FCTFT
 
 Commands
 
-gitclone https://github.com/moamenmsaeed00/Termux-Fix.git
+git clone https://github.com/moamenmsaeed00/Termux-Fix.git
  
 1- cd Fix-Termux
  
