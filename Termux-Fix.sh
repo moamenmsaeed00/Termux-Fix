@@ -8,6 +8,7 @@ cyan='\e[1;36m'
 white='\e[1;37m'
 yellow='\e[1;33m'
 clear
+echo "" 
 echo -e $red     "Termux Fix By Elmon"
 echo
 echo -e $cyan    "For Contact @M_M_S3 ~ @FCTFT ~"    
