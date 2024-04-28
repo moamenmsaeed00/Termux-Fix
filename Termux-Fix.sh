@@ -13,11 +13,12 @@ echo -e $red     "Termux Fix By Elmon"
 echo
 echo -e $cyan    "For Contact @M_M_S3 ~ @FCTFT ~"    
 echo
+echo -e $red    "Type 1 and press Enter" 
+echo
 echo -e $green   "1- Termux"
 read use
 if [ $use = 1 ]
 then
-echo -e $red    "Please Wait" 
 termux-setup-storage
 pkg update && pkg upgrade -y
 pkg install git -y
