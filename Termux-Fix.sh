@@ -66,6 +66,7 @@ pip install bundle
 gem install bundle
 gem install bundler
 gem install figlet
+fi
 if [ $use = 0 ]
 then
 clear
