@@ -18,7 +18,6 @@ echo -e $green   "0- Exit"
 read use
 if [ $use = 1 ]
 then
-termux-setup-storage
 pkg update && pkg upgrade -y
 pkg install git -y
 pkg install python-pip
