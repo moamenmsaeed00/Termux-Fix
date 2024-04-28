@@ -69,5 +69,6 @@ gem install figlet
 fi
 if [ $use = 0 ]
 then
+ehco "" 
 clear
 exit
