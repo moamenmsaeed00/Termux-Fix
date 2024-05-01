@@ -64,6 +64,13 @@ pip install --upgrade pip
 pip install wget
 pip install requests
 pip install mechanize
+pip install random 
+pip install time 
+pip install pytz 
+pip install rich
+pip install colorama 
+pip install render 
+pip install python-cfonts
 pip install bs4
 pip install rich
 pip install future
