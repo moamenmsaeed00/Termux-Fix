@@ -65,7 +65,6 @@ pip install wget
 pip install requests
 pip install mechanize
 pip install random 
-pip install time 
 pip install pytz 
 pip install rich
 pip install colorama 
